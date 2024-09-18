@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Developer-Willian
+- 👋 Olá! my name is Willian and i are developer.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,4 @@
 - ⚡ Fun fact: ...
 
 <a href="https:Developer-Willian.com">
-is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem vindo ao meu perfil sou estudante e profisisinal na área de tecnologia.
